@@ -1,0 +1,214 @@
+html { 
+
+background: url(../images/background1.jpg) no-repeat center center fixed; 
+
+
+background-position-y: 1px;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family:  Helvetica, sans-serif
+}
+
+
+.prof-box{
+
+width:400px;
+height:500px;
+background: rgba(0,0,0,0.9);
+padding: 40px;
+color: white;
+margin: 0 auto;
+margin-top: 100px;
+text-align: center;
+
+}
+
+.wrapper{
+    display:table;
+    width: 95%;
+    height: auto;
+    background: rgba(0,0,0,0.5);
+    padding: 40px;
+    color: whitesmoke;
+    margin-top: 15px;
+    
+}
+
+.prof-pic{
+border-radius: 50%;
+width: 200px;
+height: 200px;
+
+}
+
+h1{
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40;
+
+}
+
+p{
+    font-weight: 100;
+    letter-spacing: 1;
+
+}
+h5{
+    font-weight: 800;
+    letter-spacing: 2;
+    font-size: 16px;
+    font: small-caption;
+
+}
+
+.icon{
+font-size: 30px;
+
+}
+
+.icon a{
+color: white;
+
+}
+
+.line{
+size: 3px;
+
+}
+
+
+
+
+h3{
+    font-size: 20px;
+
+}
+
+
+
+.smallline{
+width: 150px;
+display: inline-block;
+
+}
+
+.smallline1{
+    
+    width: 150px;
+    display: inline-block;
+    text-align: center;
+    
+}
+
+.dates{
+color: grey;
+
+}
+
+.dates1{
+    text-align: center;
+    color: grey;
+}
+
+.smallline2{
+    
+    width: 200px;
+    display: inline-block;
+    text-align: right;
+    margin-left: 27%;
+}
+
+
+
+.equal{display:table-cell;}
+.left{text-align:left;}
+.center{
+text-align: center;
+}
+.right{text-align:right;}
+
+.exp{
+    
+    text-align: center;
+width: auto;
+height: auto;
+background: rgba(0,0,0,0.7);
+    padding: 40px;
+    color: whitesmoke;
+    margin-top: 15px;
+    
+
+}
+
+.skills{
+
+    text-align: center;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 40px;
+    margin-top: 15px;
+    background-color: black;
+
+}
+
+.sk{
+    background: url(../images/newbackground.jpg) no-repeat center center fixed; 
+    text-align: center;
+    width: auto;
+    height: auto;
+    
+}
+
+.quickid{
+
+    text-align: center;
+    width: auto;
+    height: auto;
+    color: white;
+    padding: 40px;
+    margin-top: 15px;
+    background-color: black;
+
+}
+
+.connect{
+
+    text-align: center;
+    width: 50%;
+    height: auto;
+    color: white;
+    padding: 40px;
+    margin-top: 15px;
+    background-color: black;
+
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.05);
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+.navbar a {
+   
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.navbar img{
+border-radius: 50%;
+width: 40px;
+height: 40px;
+float: left;
+margin-top: 5px;
+}
